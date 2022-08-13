@@ -1,0 +1,37 @@
+
+  .coins-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+
+  .card {
+    width: 60%;
+    margin: 10px 1rem;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    text-align:left;
+    
+  }
+
+  .coin-image {
+    width: 100%;
+  }
+  
+  .coin-body {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .red {
+    color: #f00606;
+  }
+  
+  .green {
+    color: #11d811;
+  } 
+  .yellow {
+    color: #FFFF00
+  }
